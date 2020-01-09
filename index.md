@@ -4,10 +4,11 @@ layout: default
 
 ## About DFD
 
-Current instance: [27 March 2019](2019.md)
+Current instance: [25 March 2020](2020.md)
 
 ### Previous instances
 
+* [27 March 2019](2019.md)
 * 28 March 2018
 * 29 March 2017
 * 30 March 2016
